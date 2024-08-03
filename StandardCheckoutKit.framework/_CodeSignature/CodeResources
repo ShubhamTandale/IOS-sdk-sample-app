@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/StandardCheckoutKit-Swift.h</key>
 		<data>
-		4YQHwUG6PVkEG0vmJtx5JpAMMDI=
+		BbvFg6+4aoNR2JIGjwU4YM9niPM=
 		</data>
 		<key>Headers/StandardCheckoutKit.h</key>
 		<data>
@@ -16,9 +16,25 @@
 		<data>
 		u+86+huq44GUulIIz2fJU91dCpI=
 		</data>
+		<key>Modules/StandardCheckoutKit.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
+		<data>
+		VlOEM+JRvAZoM3/EuKirPGPNsG0=
+		</data>
 		<key>Modules/StandardCheckoutKit.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		YQAUNfnL79oQdJCpNSqFcTuLL28=
+		Rzn/rFt7G2HP704SQJUjt3SpUNk=
+		</data>
+		<key>Modules/StandardCheckoutKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		FSPnLbho3G+LL9smI3XgVOqBIQ4=
+		</data>
+		<key>Modules/StandardCheckoutKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		b6iWgrToRDy/1jPtQzTRjp/n0Cs=
+		</data>
+		<key>Modules/StandardCheckoutKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		2oWeHQjH6gTUXGbofkmf76i+aRM=
 		</data>
 		<key>Modules/StandardCheckoutKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -43,7 +59,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KtPBsroG2WsYL0IztwwvZPcaWvQsOaRPd9Ea1Ozx6ho=
+			dK6/8G0/TM17eqsxe9bgc7wdcJwFb1DRt0PAQfCfBp0=
 			</data>
 		</dict>
 		<key>Headers/StandardCheckoutKit.h</key>
@@ -53,11 +69,39 @@
 			lyX9Q8o66c5qKMQIH4aokNeHJOH9cy2uaxK0W2TSqcs=
 			</data>
 		</dict>
+		<key>Modules/StandardCheckoutKit.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fxiGu1uf1GvY3QHg6Fij9yHKvxLX2rlFwoYyH4WdYGU=
+			</data>
+		</dict>
 		<key>Modules/StandardCheckoutKit.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p/ONOyoErpwhMmC8HMIZWDJLpH1+qF9f7JFrWMtsl1k=
+			2n4s9bKWGjVvVdPvnwd+24i36CuFAnnwCRtOa4fMgg4=
+			</data>
+		</dict>
+		<key>Modules/StandardCheckoutKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
+			</data>
+		</dict>
+		<key>Modules/StandardCheckoutKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9cN6YXmFwG/AGg057PTgcrEjn8BByOUztCAQ9Bz3y90=
+			</data>
+		</dict>
+		<key>Modules/StandardCheckoutKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZTxqOK2Vmc7Dsi1VOZbjEZcnhsg60uIVJR9K3BXdLGo=
 			</data>
 		</dict>
 		<key>Modules/StandardCheckoutKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
