@@ -62,8 +62,8 @@ class ViewController: UIViewController, StandardCheckoutDelegate {
     }
     
     func onFail() {
-        let alert = UIAlertController(title: "Fail", message: "Fail transaction", preferredStyle: UIAlertControllerStyle.alert)
-        alert.addAction(UIAlertAction(title: "OK", style: UIAlertActionStyle.default, handler: nil))
+        let alert = UIAlertController(title: "Fail", message: "Fail transaction", preferredStyle: UIAlertController.Style.alert)
+        alert.addAction(UIAlertAction(title: "OK", style: UIAlertAction.Style.default, handler: nil))
         self.present(alert, animated: true, completion: nil)
     }
 }
